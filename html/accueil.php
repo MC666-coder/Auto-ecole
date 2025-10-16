@@ -54,8 +54,6 @@
 
     <script type="text/javascript" src="../javascript/script.js"></script> 
     
-    <script src="https://cdn.botpress.cloud/webchat/v2.3/inject.js"></script>
-    <script src="https://files.bpcontent.cloud/2025/04/15/12/20250415125009-G87SKORA.js"></script>
     
    
  
