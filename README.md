@@ -43,7 +43,7 @@ try {
 
 Installation :
 1. Cloner le projet :
-   git clone https://github.com/MC666-coder/Auto-ecole.git
+  ```bash git clone https://github.com/MC666-coder/Auto-ecole.git ```
 
 2. Importer la base :
    - Ouvrir phpMyAdmin
