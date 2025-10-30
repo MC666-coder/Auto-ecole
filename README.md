@@ -22,6 +22,7 @@ Chaque élève est lié à une ville et une formule. Chaque moniteur est lié à
 Configuration :
 Le fichier de connexion à la base est déjà présent dans le projet : `db.php`
 
+'''php
 Contenu de db.php :
 --------------------------------------------------
 $servername = 'localhost';
@@ -29,7 +30,6 @@ $username = 'root';
 $dbname = 'auto_ecole';
 $password = '';
 
-'''php
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
