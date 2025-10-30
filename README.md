@@ -43,7 +43,7 @@ try {
 
 Installation :
 1. Cloner le projet :
-  ``` git clone https://github.com/MC666-coder/Auto-ecole.git ```
+  ```arduino git clone https://github.com/MC666-coder/Auto-ecole.git ```
 
 2. Importer la base :
    - Ouvrir phpMyAdmin
@@ -52,7 +52,7 @@ Installation :
 
 3. Lancer le projet :
    - Démarrer WampServer
-   - Accéder au site via : ```bash http://localhost/Auto-ecole ```
+   - Accéder au site via : ```arduino http://localhost/Auto-ecole ```
 
 Contact :
 Email : mbourouclaudemarvine@gmail.com
