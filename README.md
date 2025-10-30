@@ -24,7 +24,7 @@ Le fichier de connexion à la base est déjà présent dans le projet : `db.php`
 
 Contenu de db.php :
 --------------------------------------------------
-<?php
+'''php
 $servername = 'localhost';
 $username = 'root';
 $dbname = 'auto_ecole';
@@ -37,7 +37,7 @@ try {
     echo "erreurBG" . $e->getMessage();
     $conn = NULL;
 }
-?>
+'''
 --------------------------------------------------
 
 Installation :
