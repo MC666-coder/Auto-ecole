@@ -52,7 +52,7 @@ Installation :
 
 3. Lancer le projet :
    - Démarrer WampServer
-   - Accéder au site via : http://localhost/Auto-ecole
+   - Accéder au site via : ```bash http://localhost/Auto-ecole ```
 
 Contact :
 Email : mbourouclaudemarvine@gmail.com
